@@ -1,1 +1,12 @@
 /* Add CSS Styling */
+
+
+
+.container .text  {
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ color: aqua;
+ background-color: azure;
+ font-style: italic;
+ font-size: 80px;
+ text-align: left;
+}
