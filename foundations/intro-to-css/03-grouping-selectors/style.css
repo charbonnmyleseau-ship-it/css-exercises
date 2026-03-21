@@ -1,1 +1,12 @@
 /* Add CSS Styling */
+
+.class-A {
+    background-color: black;
+    color: white;
+}
+.class-B {
+    background-color: gold;
+}
+.class-A,.class-B
+{font-size: 28px;
+font-family:  Helvetica, 'Times New Roman', sans-serif ;}
